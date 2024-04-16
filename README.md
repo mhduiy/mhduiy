@@ -18,7 +18,7 @@
 
 <dev align=center>
 
-[![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/mhduiy/mhduiy/output/github-contribution-grid-snake.svg)
+[![](https://raw.githubusercontent.com/mhduiy/mhduiy/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/mhduiy/mhduiy/output/github-contribution-grid-snake.svg)
 
 [![mhduiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhduiy&show_icons=true&theme=tokyonight)](https://space.bilibili.com/354386738)
 
