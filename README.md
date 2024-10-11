@@ -2,8 +2,6 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-欢迎你来到我的Github主页，感兴趣的话别忘了一件三连哦（star & fork & watch） 【臭不要脸】😎😎😎
-
 ![](https://img.shields.io/badge/喜欢-摄影-yellow) 
 ![](https://img.shields.io/badge/性格-I人-green) 
 ![](https://img.shields.io/badge/爱好-二刺猿-red)
