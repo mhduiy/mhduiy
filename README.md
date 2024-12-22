@@ -2,19 +2,27 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-![](https://img.shields.io/badge/喜欢-摄影-yellow) 
-![](https://img.shields.io/badge/性格-I人-green) 
-![](https://img.shields.io/badge/爱好-二刺猿-red)
-
-🙆持续性米粉，间歇性米黑🙆<br>
-🤾你自己都是开发者，你为什么不敢<弄他>🤾
 </div>
 
 ## About me
 
-🪖🪖🪖
+🪖 常使用C++，Qt等技术栈
+
+📖 我的博客 -> https://blog.mhduiy.cn/
+
+📺 小破站 -> https://space.bilibili.com/354386738
+
+🎡 业余时间也会开发一些实用小工具，希望有人喜欢
+
+- [基于ADB用Qml开发的安卓工具箱](https://github.com/mhduiy/AndroidTools-qml)
+- [使用Flutter开发的密码管理器](https://github.com/mhduiy/PWDmanager)
+- [使用Qt-widgets开发的翻译工具](https://github.com/mhduiy/simplyTools)
 
 <dev align=center>
+
+## 热力图
+
+🥗争取每天都有一个小绿点🥗
 
 [![](https://raw.githubusercontent.com/mhduiy/mhduiy/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/mhduiy/mhduiy/output/github-contribution-grid-snake.svg)
 
