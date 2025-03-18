@@ -6,13 +6,11 @@
 
 ## About me
 
-🪖 常使用C++，Qt等技术栈
+📖 blog -> https://blog.mhduiy.cn/
 
-📖 我的博客 -> https://blog.mhduiy.cn/
+📺 bilibili -> https://space.bilibili.com/354386738
 
-📺 小破站 -> https://space.bilibili.com/354386738
-
-🎡 业余时间也会开发一些实用小工具，希望有人喜欢
+🎡 业余时间也会开发一些实用小工具
 
 - [基于ADB用Qml开发的安卓工具箱](https://github.com/mhduiy/AndroidTools-qml)
 - [使用Flutter开发的密码管理器](https://github.com/mhduiy/PWDmanager)
@@ -22,7 +20,7 @@
 
 ## 热力图
 
-🥗争取每天都有一个小绿点🥗
+🥗青山相待，白云相爱，梦不到紫罗袍共黄金带。—— 山坡羊·道情🥗
 
 [![](https://raw.githubusercontent.com/mhduiy/mhduiy/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/mhduiy/mhduiy/output/github-contribution-grid-snake.svg)
 
